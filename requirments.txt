@@ -1,0 +1,4 @@
+pygame
+adafruit-pca9685
+RPi.GPIO
+opencv-python
